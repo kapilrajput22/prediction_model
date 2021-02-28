@@ -1,4 +1,4 @@
-### Vanilla
+### Vanilla Version
 
 - Install the requirements and setup the prod environment.
 
